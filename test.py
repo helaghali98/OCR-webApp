@@ -1,4 +1,5 @@
 from app import app
+import cv2
 
 def test1():
     response = app.test_client().get('/')
