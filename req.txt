@@ -3,3 +3,5 @@ SQLAlchemy
 Flask-SQLAlchemy
 pytest
 opencv-python
+pytesseract
+tesseract
